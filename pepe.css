@@ -1,0 +1,11 @@
+.container {
+    background-color: lightgreen;
+    width: 300px;
+    height: 300px;
+    display: grid;
+    grid-template-rows: repeat(3, 1fr);
+}
+
+.container div {
+    
+}
